@@ -24,7 +24,7 @@ public class Main {
                     }*/
                 }
             }
-            System.out.println("Voulez vous continuer? (Y/y)");
+            System.out.println("Do you want to continue? (Y/y)");
             choice = scn.next().charAt(0);
         }while (choice == 'Y' || choice == 'y');
     }
