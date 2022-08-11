@@ -1,0 +1,12 @@
+Let say there is a given array of integers..
+And we also have a specific target :🎯
+
+The program returns indices of the two numbers such that they add up to the specific target.
+
+Example:
+
+Given nums = [2, 7, 11, 15], target = 9;
+
+The program returns 0, 1
+
+PS: NO ERROR HANDLING
